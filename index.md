@@ -13,15 +13,37 @@ I am particularly interested in analytics engineering, data engineering, and rol
 
 ---
 
-## Work and Projects
+Work and Projects
 
-Projects currently being refined and documented.
+Olympic Sport Specialization and Life Expectancy
+This project explores whether Olympic sport specialization patterns relate to life expectancy across countries using regression and machine learning models.
 
-Selected areas of work include:
+MovieLens Recommendation System
+Built a movie recommendation model using the MovieLens dataset.
 
-• Data engineering and transformation pipelines  
-• Exploratory data analysis and visualization  
-• Statistical modeling and applied analytics  
+ALS Disease Clustering
+Applied K-means clustering and PCA to analyze patterns in ALS patient data.
+
+Boxing Analytics Project
+Analyzed professional boxing data to explore fighter performance and match trends.
+
+White House Visitor Log Analysis
+Used visualization and storytelling techniques to analyze visitor log data.
+
+Vehicle Theft Data Analysis
+Examined trends in Kia and Hyundai theft data across multiple datasets.
+
+Childcare Cost Analysis
+Analyzed county-level childcare cost trends across the United States.
+
+Candy Preference Analysis
+Exploratory data analysis on survey data related to candy preferences.
+
+Olympic Data Exploration
+Exploratory analysis of Olympic athlete data and medal distribution.
+
+Data Wrangling Projects
+Examples of data cleaning, transformation, and visualization using Python.
 
 ---
 
